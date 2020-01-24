@@ -1,2 +1,6 @@
 # whatsapp-automation-multisender
-you can send your messages to multiple members with your pc
+YOU CAN SEND A MESSAGE TO MULTIPLE MEMBERS WITH THIS CODE
+INSTALL CHROME WEB-DRIVER BEFORE EXECUTING THIS CODE
+YOU CAN DOWNLOAD CHROME WEB-DRIVER FROM 
+https://chromedriver.chromium.org/downloads 
+DEPENDING ON YOUR CHROME BROWSER VERSION.
