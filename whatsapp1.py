@@ -7,7 +7,7 @@ time.sleep(30)
 
 
 
-#ENTER YOUR CONTACTS TO SENT
+#ENTER YOUR CONTACTS IN THIS LIST
 contacts=['a','b','c','d','e','f']
 for i in contacts:
 	driver.find_element_by_class_name('eiCXe').send_keys(i)
